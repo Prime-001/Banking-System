@@ -1,7 +1,7 @@
 # 🏦 Banking System (Java + MySQL)
 
 > A simple **console-based banking system** written in **Java** with **MySQL** integration using **JDBC**, and built using **Maven**.  
-> This project demonstrates **CRUD operations**, **user authentication**, and **transaction history** management — ideal for learning JDBC and strengthening backend development skills.
+> This project demonstrates **CRUD operations**, **user authentication**, and **transaction history** management.
 
 ---
 
@@ -57,5 +57,8 @@
 - Security (e.g., PIN hashing)
 - GUI (JavaFX/Swing)
 - Multi-user session handling
+
+## License
+This project is open-source and available under the MIT License.
 
 
